@@ -4,6 +4,4 @@ Founding Partner at [Liberion Labs](https://liberionlabs.com). We put companies'
 
 Mathematical Engineering & AI, Universidad Pontificia Comillas (ICAI).
 
-Most of my work lives in private repositories.
-
 [liberionlabs.com](https://liberionlabs.com) · [LinkedIn](https://www.linkedin.com/in/miguel-angel-vallejo-de-bergia)
